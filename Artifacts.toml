@@ -1,0 +1,143 @@
+[[nats_server]]
+arch = "aarch64"
+git-tree-sha1 = "2e4b65bd364149af25e5dc9fbdeb3e4d4af04ce1"
+os = "macos"
+
+    [[nats_server.download]]
+    sha256 = "4167f1b426a49d53ad5ebd61e506623b87d602e344a5d7afc06c68b5de7bac13"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.aarch64-apple-darwin.tar.gz"
+[[nats_server]]
+arch = "aarch64"
+git-tree-sha1 = "eab72b80422676b7dcfe8a20d88897fd773f6802"
+libc = "glibc"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "f2820265656c80df3389ad88d9466cbd3def4d56c01cc8e4932fc732d5115a7a"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.aarch64-linux-gnu.tar.gz"
+[[nats_server]]
+arch = "aarch64"
+git-tree-sha1 = "eab72b80422676b7dcfe8a20d88897fd773f6802"
+libc = "musl"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "f2820265656c80df3389ad88d9466cbd3def4d56c01cc8e4932fc732d5115a7a"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.aarch64-linux-musl.tar.gz"
+[[nats_server]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "573fa1e09e92656a53b14d06d8d9a58a98cfc340"
+libc = "glibc"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "626079e85d80b2b6ad64d1207f744b8c289a4a93f7cac2195cb96d2105ec20b8"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.armv6l-linux-gnueabihf.tar.gz"
+[[nats_server]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "573fa1e09e92656a53b14d06d8d9a58a98cfc340"
+libc = "musl"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "626079e85d80b2b6ad64d1207f744b8c289a4a93f7cac2195cb96d2105ec20b8"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.armv6l-linux-musleabihf.tar.gz"
+[[nats_server]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1d012f15b3ec32f91b0a0a79721a9a4d9eec9767"
+libc = "glibc"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "5d77e76375f3de59d42227c2df56a1957ceeecd2a9cfd0966888d9f74fde41ac"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.armv7l-linux-gnueabihf.tar.gz"
+[[nats_server]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1d012f15b3ec32f91b0a0a79721a9a4d9eec9767"
+libc = "musl"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "5d77e76375f3de59d42227c2df56a1957ceeecd2a9cfd0966888d9f74fde41ac"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.armv7l-linux-musleabihf.tar.gz"
+[[nats_server]]
+arch = "i686"
+git-tree-sha1 = "0b483577ee9011f6eed69116cf4433e7ab0b3662"
+libc = "glibc"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "9131463f622662977e01bda92b8ca2a9bcbaa4eaa0ec426b8977caf35b8ecce0"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.i686-linux-gnu.tar.gz"
+[[nats_server]]
+arch = "i686"
+git-tree-sha1 = "0b483577ee9011f6eed69116cf4433e7ab0b3662"
+libc = "musl"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "9131463f622662977e01bda92b8ca2a9bcbaa4eaa0ec426b8977caf35b8ecce0"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.i686-linux-musl.tar.gz"
+[[nats_server]]
+arch = "i686"
+git-tree-sha1 = "3d198b2243ddd0e1332f5ac3b372ecd01cb30b4f"
+os = "windows"
+
+    [[nats_server.download]]
+    sha256 = "1ae180a88beca74ef989d1796b966f7fc5c42d33ab6039b486af3bc821ffaadb"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.i686-w64-mingw32.tar.gz"
+[[nats_server]]
+arch = "powerpc64le"
+git-tree-sha1 = "1b8498e3998fdebd0275688acc482b166c8e9b22"
+libc = "glibc"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "66b278e0bf9316996b4c6e3f9b75e21ada0b9dff3c815690bf5c574e3f831dab"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.powerpc64le-linux-gnu.tar.gz"
+[[nats_server]]
+arch = "x86_64"
+git-tree-sha1 = "81332e679b1fa18584d189c75f1b7e66d8083c38"
+os = "macos"
+
+    [[nats_server.download]]
+    sha256 = "9fce66d51bf7cffe6866a41aea07cd6dc71f8fff750d0605f7b80186d3185d77"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.x86_64-apple-darwin.tar.gz"
+[[nats_server]]
+arch = "x86_64"
+git-tree-sha1 = "6062a2a221a81f912cb635f07bf0b25edc39deed"
+libc = "glibc"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "4028e91b8495949f6f7e50a440b1b1cdd726a9de1b585dc732e4aaee708c176f"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.x86_64-linux-gnu.tar.gz"
+[[nats_server]]
+arch = "x86_64"
+git-tree-sha1 = "6062a2a221a81f912cb635f07bf0b25edc39deed"
+libc = "musl"
+os = "linux"
+
+    [[nats_server.download]]
+    sha256 = "4028e91b8495949f6f7e50a440b1b1cdd726a9de1b585dc732e4aaee708c176f"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.x86_64-linux-musl.tar.gz"
+[[nats_server]]
+arch = "x86_64"
+git-tree-sha1 = "bdbc65c848cd5f69fa1865ee3197178151ffbfef"
+os = "freebsd"
+
+    [[nats_server.download]]
+    sha256 = "4e40ce4775f70f40b1c1f5e9ffbbc156de0bbecf6b2b7413de766cece3bf3afc"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.x86_64-unknown-freebsd.tar.gz"
+[[nats_server]]
+arch = "x86_64"
+git-tree-sha1 = "c2100aee664bb0f751cc5ec26bfe94a7defd4b50"
+os = "windows"
+
+    [[nats_server.download]]
+    sha256 = "d9b1a1d335c9fadd3183d4db674ae213701d4724ccde5a3bbe1ed310a8223a60"
+    url = "https://github.com/JuliaBinaryWrappers/nats_server_jll.jl/releases/download/nats_server-v2.9.21+0/nats_server.v2.9.21.x86_64-w64-mingw32.tar.gz"
